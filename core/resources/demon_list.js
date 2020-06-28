@@ -171,7 +171,7 @@ export default {
     ]
   },
   "Brigid": {
-    "race": "",
+    "race": "Megami",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -399,7 +399,7 @@ export default {
     ]
   },
   "Laksmi": {
-    "race": "",
+    "race": "Megami",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -627,7 +627,7 @@ export default {
     ]
   },
   "Norn": {
-    "race": "",
+    "race": "Megami",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -715,7 +715,7 @@ export default {
     ]
   },
   "Amaterasu": {
-    "race": "",
+    "race": "Megami",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -803,7 +803,7 @@ export default {
     ]
   },
   "Thor": {
-    "race": "",
+    "race": "Deity",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -863,7 +863,7 @@ export default {
     ]
   },
   "Mahakala": {
-    "race": "",
+    "race": "Deity",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -951,7 +951,7 @@ export default {
     ]
   },
   "Odin": {
-    "race": "",
+    "race": "Deity",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1039,7 +1039,7 @@ export default {
     ]
   },
   "Yama": {
-    "race": "",
+    "race": "Deity",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1127,7 +1127,7 @@ export default {
     ]
   },
   "Shiva": {
-    "race": "",
+    "race": "Deity",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1159,7 +1159,7 @@ export default {
     ]
   },
   "Asura": {
-    "race": "",
+    "race": "Deity",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1235,7 +1235,7 @@ export default {
     ]
   },
   "Orcus": {
-    "race": "",
+    "race": "Vile",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1323,7 +1323,7 @@ export default {
     ]
   },
   "Pazuzu": {
-    "race": "",
+    "race": "Vile",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1411,7 +1411,7 @@ export default {
     ]
   },
   "Abaddon": {
-    "race": "",
+    "race": "Vile",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1499,7 +1499,7 @@ export default {
     ]
   },
   "Tao Tie": {
-    "race": "",
+    "race": "Vile",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1587,7 +1587,7 @@ export default {
     ]
   },
   "Arioch": {
-    "race": "",
+    "race": "Vile",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1675,7 +1675,7 @@ export default {
     ]
   },
   "Nyalalotep": {
-    "race": "",
+    "race": "Vile",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1763,7 +1763,7 @@ export default {
     ]
   },
   "Makara": {
-    "race": "",
+    "race": "Snake",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -1899,7 +1899,7 @@ export default {
     ]
   },
   "Pendragon": {
-    "race": "",
+    "race": "Snake",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2111,7 +2111,7 @@ export default {
     ]
   },
   "Quetzlcolt": {
-    "race": "",
+    "race": "Snake",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2199,7 +2199,7 @@ export default {
     ]
   },
   "Seiryuu": {
-    "race": "",
+    "race": "Snake",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2287,7 +2287,7 @@ export default {
     ]
   },
   "Orochi": {
-    "race": "",
+    "race": "Snake",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2375,7 +2375,7 @@ export default {
     ]
   },
   "Ananta": {
-    "race": "",
+    "race": "Snake",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2463,7 +2463,7 @@ export default {
     ]
   },
   "Toubyou": {
-    "race": "",
+    "race": "Dragon",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2547,7 +2547,7 @@ export default {
     ]
   },
   "Basilisk": {
-    "race": "",
+    "race": "Dragon",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2635,7 +2635,7 @@ export default {
     ]
   },
   "Ym": {
-    "race": "",
+    "race": "Dragon",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2723,7 +2723,7 @@ export default {
     ]
   },
   "Python": {
-    "race": "",
+    "race": "Dragon",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2811,7 +2811,7 @@ export default {
     ]
   },
   "Culebre": {
-    "race": "",
+    "race": "Dragon",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2899,7 +2899,7 @@ export default {
     ]
   },
   "Angel": {
-    "race": "",
+    "race": "Divine",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -2987,7 +2987,7 @@ export default {
     ]
   },
   "Power": {
-    "race": "",
+    "race": "Divine",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3075,7 +3075,7 @@ export default {
     ]
   },
   "Lailah": {
-    "race": "",
+    "race": "Divine",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3163,7 +3163,7 @@ export default {
     ]
   },
   "Aniel": {
-    "race": "",
+    "race": "Divine",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3251,7 +3251,7 @@ export default {
     ]
   },
   "Kazfiel": {
-    "race": "",
+    "race": "Divine",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3339,7 +3339,7 @@ export default {
     ]
   },
   "Remiel": {
-    "race": "",
+    "race": "Divine",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3415,7 +3415,7 @@ export default {
     ]
   },
   "Metatron": {
-    "race": "",
+    "race": "Divine",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3447,7 +3447,7 @@ export default {
     ]
   },
   "Moh Shuyuu": {
-    "race": "",
+    "race": "Avian",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3491,7 +3491,7 @@ export default {
     ]
   },
   "Suparna": {
-    "race": "",
+    "race": "Avian",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3699,7 +3699,7 @@ export default {
     ]
   },
   "Vidofnir": {
-    "race": "",
+    "race": "Avian",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3787,7 +3787,7 @@ export default {
     ]
   },
   "Badb Catha": {
-    "race": "",
+    "race": "Avian",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3875,7 +3875,7 @@ export default {
     ]
   },
   "Garuda": {
-    "race": "",
+    "race": "Avian",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -3963,7 +3963,7 @@ export default {
     ]
   },
   "Gagyson": {
-    "race": "",
+    "race": "Fallen",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4031,7 +4031,7 @@ export default {
     ]
   },
   "Nisroc": {
-    "race": "",
+    "race": "Fallen",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4119,7 +4119,7 @@ export default {
     ]
   },
   "Orobas": {
-    "race": "",
+    "race": "Fallen",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4203,7 +4203,7 @@ export default {
     ]
   },
   "Decarabia": {
-    "race": "",
+    "race": "Fallen",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4291,7 +4291,7 @@ export default {
     ]
   },
   "Agares": {
-    "race": "",
+    "race": "Fallen",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4379,7 +4379,7 @@ export default {
     ]
   },
   "Murmur": {
-    "race": "",
+    "race": "Fallen",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4467,7 +4467,7 @@ export default {
     ]
   },
   "Heqet": {
-    "race": "",
+    "race": "Avatar",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4539,7 +4539,7 @@ export default {
     ]
   },
   "Shiisaa": {
-    "race": "",
+    "race": "Avatar",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4767,7 +4767,7 @@ export default {
     ]
   },
   "Bai Ze": {
-    "race": "",
+    "race": "Avatar",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4855,7 +4855,7 @@ export default {
     ]
   },
   "Airavata": {
-    "race": "",
+    "race": "Avatar",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -4943,7 +4943,7 @@ export default {
     ]
   },
   "Ukano Mitama": {
-    "race": "",
+    "race": "Avatar",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5031,7 +5031,7 @@ export default {
     ]
   },
   "Barong": {
-    "race": "",
+    "race": "Avatar",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5119,7 +5119,7 @@ export default {
     ]
   },
   "Kabuso": {
-    "race": "",
+    "race": "Beast",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5155,7 +5155,7 @@ export default {
     ]
   },
   "Hairy Jack": {
-    "race": "",
+    "race": "Beast",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5267,7 +5267,7 @@ export default {
     ]
   },
   "Nekomata": {
-    "race": "",
+    "race": "Beast",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5355,7 +5355,7 @@ export default {
     ]
   },
   "Cait Sith": {
-    "race": "",
+    "race": "Beast",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5443,7 +5443,7 @@ export default {
     ]
   },
   "Orthrus": {
-    "race": "",
+    "race": "Beast",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5531,7 +5531,7 @@ export default {
     ]
   },
   "Cerberus": {
-    "race": "",
+    "race": "Beast",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5619,7 +5619,7 @@ export default {
     ]
   },
   "Waira": {
-    "race": "",
+    "race": "Wilder",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5663,7 +5663,7 @@ export default {
     ]
   },
   "Garm": {
-    "race": "",
+    "race": "Wilder",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5727,7 +5727,7 @@ export default {
     ]
   },
   "Afanc": {
-    "race": "",
+    "race": "Wilder",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5815,7 +5815,7 @@ export default {
     ]
   },
   "Mothman": {
-    "race": "",
+    "race": "Wilder",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5903,7 +5903,7 @@ export default {
     ]
   },
   "Behemoth": {
-    "race": "",
+    "race": "Wilder",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -5991,7 +5991,7 @@ export default {
     ]
   },
   "Jambavan": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6055,7 +6055,7 @@ export default {
     ]
   },
   "Tlaloc": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6235,7 +6235,7 @@ export default {
     ]
   },
   "Heimdall": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6463,7 +6463,7 @@ export default {
     ]
   },
   "Hanuman": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6551,7 +6551,7 @@ export default {
     ]
   },
   "Cu Chulainn": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6639,7 +6639,7 @@ export default {
     ]
   },
   "Kresnik": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6727,7 +6727,7 @@ export default {
     ]
   },
   "Seiten Taisei": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6815,7 +6815,7 @@ export default {
     ]
   },
   "Ganesha": {
-    "race": "",
+    "race": "Genma",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6875,7 +6875,7 @@ export default {
     ]
   },
   "Pixie": {
-    "race": "",
+    "race": "Fairy",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6907,7 +6907,7 @@ export default {
     ]
   },
   "Kijimunaa": {
-    "race": "",
+    "race": "Fairy",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -6975,7 +6975,7 @@ export default {
     ]
   },
   "Jack frost": {
-    "race": "",
+    "race": "Fairy",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7107,7 +7107,7 @@ export default {
     ]
   },
   "Pyro Jack": {
-    "race": "",
+    "race": "Fairy",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7271,7 +7271,7 @@ export default {
     ]
   },
   "Silky": {
-    "race": "",
+    "race": "Fairy",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7359,7 +7359,7 @@ export default {
     ]
   },
   "Lorelei": {
-    "race": "",
+    "race": "Fairy",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7447,7 +7447,7 @@ export default {
     ]
   },
   "Vivian": {
-    "race": "",
+    "race": "Fairy",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7535,7 +7535,7 @@ export default {
     ]
   },
   "King Frost": {
-    "race": "",
+    "race": "Tyrant",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7663,7 +7663,7 @@ export default {
     ]
   },
   "Hecate": {
-    "race": "",
+    "race": "Tyrant",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7751,7 +7751,7 @@ export default {
     ]
   },
   "Astaroth": {
-    "race": "",
+    "race": "Tyrant",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7839,7 +7839,7 @@ export default {
     ]
   },
   "Loki": {
-    "race": "",
+    "race": "Tyrant",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7919,7 +7919,7 @@ export default {
     ]
   },
   "Lucifer": {
-    "race": "",
+    "race": "Tyrant",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -7951,7 +7951,7 @@ export default {
     ]
   },
   "Ubelluris": {
-    "race": "",
+    "race": "Kishin",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8035,7 +8035,7 @@ export default {
     ]
   },
   "Nalagiri": {
-    "race": "",
+    "race": "Kishin",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8123,7 +8123,7 @@ export default {
     ]
   },
   "Mikazuchi": {
-    "race": "",
+    "race": "Kishin",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8211,7 +8211,7 @@ export default {
     ]
   },
   "Zouchou": {
-    "race": "",
+    "race": "Kishin",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8299,7 +8299,7 @@ export default {
     ]
   },
   "Koumoku": {
-    "race": "",
+    "race": "Kishin",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8387,7 +8387,7 @@ export default {
     ]
   },
   "Bishamon": {
-    "race": "",
+    "race": "Kishin",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8443,7 +8443,7 @@ export default {
     ]
   },
   "Kobold": {
-    "race": "",
+    "race": "Touki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8479,7 +8479,7 @@ export default {
     ]
   },
   "Bilwis": {
-    "race": "",
+    "race": "Touki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8547,7 +8547,7 @@ export default {
     ]
   },
   "Gozuki": {
-    "race": "",
+    "race": "Touki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8695,7 +8695,7 @@ export default {
     ]
   },
   "Mezuki": {
-    "race": "",
+    "race": "Touki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8827,7 +8827,7 @@ export default {
     ]
   },
   "Berserker": {
-    "race": "",
+    "race": "Touki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -8915,7 +8915,7 @@ export default {
     ]
   },
   "Yaksa": {
-    "race": "",
+    "race": "Touki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9003,7 +9003,7 @@ export default {
     ]
   },
   "Ogre": {
-    "race": "",
+    "race": "Jaki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9039,7 +9039,7 @@ export default {
     ]
   },
   "Ogun": {
-    "race": "",
+    "race": "Jaki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9087,7 +9087,7 @@ export default {
     ]
   },
   "Wendigo": {
-    "race": "",
+    "race": "Jaki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9271,7 +9271,7 @@ export default {
     ]
   },
   "Loa": {
-    "race": "",
+    "race": "Jaki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9359,7 +9359,7 @@ export default {
     ]
   },
   "Legion": {
-    "race": "",
+    "race": "Jaki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9447,7 +9447,7 @@ export default {
     ]
   },
   "Kudlak": {
-    "race": "",
+    "race": "Jaki",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9535,7 +9535,7 @@ export default {
     ]
   },
   "Kikimora": {
-    "race": "",
+    "race": "Femme",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9595,7 +9595,7 @@ export default {
     ]
   },
   "Lilim": {
-    "race": "",
+    "race": "Femme",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9715,7 +9715,7 @@ export default {
     ]
   },
   "Yuki Jyorou": {
-    "race": "",
+    "race": "Femme",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9831,7 +9831,7 @@ export default {
     ]
   },
   "Peri": {
-    "race": "",
+    "race": "Femme",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -9919,7 +9919,7 @@ export default {
     ]
   },
   "Hariti": {
-    "race": "",
+    "race": "Femme",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10007,7 +10007,7 @@ export default {
     ]
   },
   "Rangda": {
-    "race": "",
+    "race": "Femme",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10095,7 +10095,7 @@ export default {
     ]
   },
   "Erthys": {
-    "race": "",
+    "race": "Element",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10239,7 +10239,7 @@ export default {
     ]
   },
   "Aeros": {
-    "race": "",
+    "race": "Element",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10371,7 +10371,7 @@ export default {
     ]
   },
   "Aquans": {
-    "race": "",
+    "race": "Element",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10595,7 +10595,7 @@ export default {
     ]
   },
   "Flaemis": {
-    "race": "",
+    "race": "Element",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10823,7 +10823,7 @@ export default {
     ]
   },
   "Saki Mitama": {
-    "race": "",
+    "race": "Mitama",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10855,7 +10855,7 @@ export default {
     ]
   },
   "Kusi Mitama": {
-    "race": "",
+    "race": "Mitama",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10891,7 +10891,7 @@ export default {
     ]
   },
   "Ara Mitama": {
-    "race": "",
+    "race": "Mitama",
     "level": 1,
     "exp": 1,
     "Stat": {
@@ -10927,7 +10927,7 @@ export default {
     ]
   },
   "Nigi Mitama": {
-    "race": "",
+    "race": "Mitama",
     "level": 1,
     "exp": 1,
     "Stat": {
